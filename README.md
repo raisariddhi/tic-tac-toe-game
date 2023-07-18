@@ -19,7 +19,8 @@ A simple Tic-Tac-Toe game implemented with both front-end and back-end component
 2. Ensure you have Node.js installed.
 3. Open a terminal and navigate to the project's directory.
 4. Run the following command to install the necessary dependencies: npm install
-5. Start the server by running the following command: node server.js6. Open your web browser and visit `http://localhost:3000` to play the game.
+5. Start the server by running the following command: node server.js
+6. Open your web browser and visit `http://localhost:3000` to play the game.
 
 ## How to Play
 
