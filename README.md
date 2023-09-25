@@ -32,4 +32,6 @@ A simple Tic-Tac-Toe game implemented with both front-end and back-end component
 6. If all cells are filled and no winner is determined, the game is declared a draw.
 7. To start a new game, click the "Restart" button.
 
+![image](IMAGE.png)
+
 
